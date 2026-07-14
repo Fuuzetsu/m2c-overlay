@@ -37,11 +37,11 @@
     "m2c": {
       "flake": false,
       "locked": {
-        "lastModified": 1782550123,
-        "narHash": "sha256-pypv+2EdI4Gqig5wsDIxQJglspm883hQK8NwDyx0H5E=",
+        "lastModified": 1784059261,
+        "narHash": "sha256-eKNfqZCSNrSpDmQKipU7GhYskladcNzjzH3K5VjL5IM=",
         "owner": "matt-kempster",
         "repo": "m2c",
-        "rev": "94098d4de68c2fcc13fb8cf1096a1520eb171abe",
+        "rev": "fbc19b62b9e8f25604dfea418417e1bfaba9d871",
         "type": "github"
       },
       "original": {
